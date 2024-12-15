@@ -1,5 +1,5 @@
 homepage: "https://medium.com/@w.anatolii"
 documentation: "https://medium.com/@w.anatolii/how-to-extract-and-consolidate-click-ids-query-parameters-cookies-using-gtm-ddc2390a5261"
 versions:
-  - sha: 9cc97b860be93fb9374a31444af2389ab62cfb0f
+  - sha: 529150b837fac6834a030f4881ed75eefc5fddc8
     changeNotes: Initial release.
